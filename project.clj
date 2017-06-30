@@ -1,4 +1,4 @@
-(defproject com.yetanalytics/datomic-riemann "0.1.1-SNAPSHOT"
+(defproject com.yetanalytics/datomic-riemann "0.1.1"
   :description "Tiny lib to send metrics events from datomic to Riemann"
   :url "https://github.com/yetanalytics/datomic-riemann"
   :license {:name "Eclipse Public License"
